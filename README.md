@@ -56,34 +56,3 @@ The game follows the well-known rules:
 
 The winner is decided based on these simple rules, and the game displays the result immediately after each round.
 
-## Example play
-Enter your choice: 
-1 - Rock 
-2 - Paper 
-3 - Scissors
-Your choice: 1
-User's choice: Rock
-Computer's choice: Paper
-Computer wins!
-Do you want to play again? (Y/N): y
-
-Enter your choice: 
-1 - Rock 
-2 - Paper 
-3 - Scissors
-Your choice: 2
-User's choice: Paper
-Computer's choice: Rock
-You win!
-Do you want to play again? (Y/N): y
-
-Enter your choice: 
-1 - Rock 
-2 - Paper 
-3 - Scissors
-Your choice: 3
-User's choice: Scissors
-Computer's choice: Rock
-Computer wins!
-Do you want to play again? (Y/N): n
-Thanks for playing!
