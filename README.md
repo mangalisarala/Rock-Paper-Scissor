@@ -1,4 +1,4 @@
-# Rock Paper Scissors Game 🪨📄✂️
+# Rock Paper Scissor Game 🪨📄✂️
 
 Welcome to the **Rock Paper Scissors** game! 🏆 This is a fun, interactive, and simple game where you challenge the computer to a match of Rock, Paper, or Scissors. The rules are classic and easy to understand. Play and see if you can beat the computer or if you'll tie!
 
